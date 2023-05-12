@@ -1,0 +1,24 @@
+{
+  "name": "portio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayasy-el/portio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayasy-el/portio/issues"
+  },
+  "homepage": "https://github.com/ayasy-el/portio#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.12",
+    "tinacms": "^1.5.5"
+  }
+}

@@ -1,4 +1,3 @@
----
 enable: true
 topTitle: Working Area
 title: >
@@ -43,3 +42,4 @@ service:
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
       tempor invidunt ut labore et dolore magna aliquyam erat.
     image: images/service/web.svg
+_template: service_template

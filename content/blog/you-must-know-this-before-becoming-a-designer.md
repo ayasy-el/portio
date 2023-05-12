@@ -1,12 +1,14 @@
 ---
 title: You must know this before becoming a designer
-date: 2020-07-13T12:49:27.000+06:00
+date: 2020-07-13T06:49:27.000Z
 featureImage: images/allpost/allPost-8.jpg
 postImage: images/single-blog/feature-image.jpg
 tags: fun
 categories: documentation
 toc: true
+_template: blog_template
 ---
+
 
 ## Introduction
 
